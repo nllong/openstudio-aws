@@ -1,3 +1,5 @@
+# REPO MOVED TO NREL/openstudio-aws-gem
+
 OpenStudio AWS Gem
 ==================
 
